@@ -15,14 +15,12 @@ eg. For specific region 'Mumbai' and for specific drug 'Ibuprofin'
 - `date` → sales transaction date  
 - `medicine_name` → product name  
 - `sales` → number of units sold  
-- `region` → geographical sales region  
-- `batch_size` → size of production batches  
+- `region` → geographical sales region   
 - `execution_status` → compliant / non-compliant indicator  
 
 ## 🔑 Key Insights  
 
-- 📈 **Seasonality**: Demand patterns vary across months and medicines.  
-- 🏥 **Compliance**: Identified areas of non-compliance in production batches.  
+- 📈 **Seasonality**: Demand patterns vary across months and medicines.    
 - ⚡ **Sales Growth**: Regional sales performance compared over time.  
 - 🎯 **Optimization Opportunities**: Highlighted trends that could inform inventory and distribution strategies.  
 
@@ -31,17 +29,7 @@ eg. For specific region 'Mumbai' and for specific drug 'Ibuprofin'
 - **Power BI** → Data modeling, DAX measures, visualizations  
 - **Excel / Python** → Preprocessing and cleaning raw data  
 - **GitHub** → Project sharing and version control  
-
-## 🚀 How to Use  
-
-1. Clone this repository or download the `.pbix` file.  
-2. Open `Pharma_Sales_Dashboard.pbix` in **Power BI Desktop**.  
-3. Explore the interactive visuals and filters.  
-
-## 📑 Project Report  
-
-A detailed analysis of findings is available in:  
-📄 [Dashboard_Analysis_Report.pdf](Dashboard_Analysis_Report.pdf)  
+ 
 
 ## 🔮 Future Improvements  
 
